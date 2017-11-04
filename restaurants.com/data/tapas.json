@@ -1,0 +1,23 @@
+[
+{
+"name"   :"Zarzuela",
+"streetAdress" : "2000 Hyde St",
+"city" : "San Francisco",
+"state" :"CA",
+"zip": "94109",
+"reviews" :"Zarzuela is a tapas restaurant in San Francisco's trendy Russian Hill neighborhood. </br> Try the 'Callos A La Madrilena' (Madrid style tripe). Don't ask ... just enjoy.",
+"stars" : "5"
+},
+{
+"name"   :"La Tasca",
+"streetAdress" :"25 W Davis St",
+"city" :"Arlington Heights",
+"state" :"IL",
+"zip": "60005",
+"reviews": "La Tasca is located right nest to the Metra Rail Station in Arlington Heights. It has a 'bar' feel to it and serves excellent inexpensive tapas.",
+"stars" : 5
+}
+]
+
+
+
